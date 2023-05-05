@@ -12,7 +12,7 @@
 
 | Name    | 손병주 (팀장)                                             | 이현범                                                        | 정솔리                                               | 정채윤                                              |
 | ------- | --------------------------------------------------------- | ------------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------------- |
-| Profile | 💯 우리들의 선장님<br>🧠 올라운더<br>🎨 그림으로 설명해요 | 🔑 인증/인가의 대가<br>😤 안되면 될때까지<br>🐯 헬스계의 티거 | 😇 매니징 천사<br>💡 아이디어 뱅크<br>👥 소통이 체질 | 💬 코드리뷰 공주<br>👀 Docs Hunter<br>👑 Git 마스터 |
+| Profile | <img src="https://user-images.githubusercontent.com/68101656/236481819-45b72b74-8d7f-4d0f-b1f0-2822e11ae63c.png" alt="image" width="150" height="150"><br>💯 우리들의 선장님<br>🧠 올라운더<br>🎨 그림으로 설명해요 | <img src="https://user-images.githubusercontent.com/68101656/236480936-3061fe30-a60f-473c-b5da-6fe57ace7b31.png" alt="image" width="150" height="150"><br>🔑 인증/인가의 대가<br>😤 안되면 될때까지<br>🐯 헬스계의 티거 | <img src="https://user-images.githubusercontent.com/68101656/236482642-de9bc82a-fba0-4c01-bffb-a6282aa76c06.jpeg" alt="image" width="150" height="150"><br>😇 매니징 천사<br>💡 아이디어 뱅크<br>👥 소통이 체질 | <img src="https://user-images.githubusercontent.com/68101656/236482986-ecf63975-cc07-49e9-8b60-80cbf71c31ef.png" alt="image" width="150" height="150"><br>💬 코드리뷰 공주<br>👀 Docs Hunter<br>👑 Git 마스터 |
 | Github  | [@byeongJoo05](https://github.com/byeongJoo05)            | [@hb9397](https://github.com/hb9397)                          | [@sollyj](https://github.com/SollyJ)                 | [@kkkwp](https://github.com/kkkwp)                  |
 
 <br>
